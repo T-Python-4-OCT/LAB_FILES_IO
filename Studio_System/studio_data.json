@@ -1,0 +1,28 @@
+{
+    "equipment": [
+        {
+            "id": 1,
+            "name": "Sony Camera",
+            "category": "Cameras",
+            "quantity": 5
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "equipment_id": 1,
+            "employee": "Abdulmajeed",
+            "quantity": 2,
+            "date": "2026-10-18",
+            "status": "returned"
+        },
+        {
+            "id": 2,
+            "equipment_id": 1,
+            "employee": "Ali",
+            "quantity": 1,
+            "date": "2026-10-18",
+            "status": "returned"
+        }
+    ]
+}

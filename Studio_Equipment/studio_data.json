@@ -1,0 +1,15 @@
+{
+  "equipment": [
+    {
+      "id": 1,
+      "name": "sony camera",
+      "category": "camera",
+      "quantity": 5
+    }
+  ],
+  "transactions": [],
+  "counters": {
+    "equipment": 2,
+    "transaction": 1
+  }
+}

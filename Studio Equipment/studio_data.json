@@ -1,0 +1,30 @@
+{
+  "equipment": [
+    {
+      "id": 1,
+      "name": "sony camera",
+      "category": "camera",
+      "quantity": 6
+    },
+    {
+      "id": 2,
+      "name": "appel phone",
+      "category": "phone",
+      "quantity": 8
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "equipment_id": 1,
+      "equipment_name": "sony camera",
+      "employee": "abdullah",
+      "quantity": 3,
+      "date": "2026-10-18",
+      "status": "returned",
+      "return_date": "2026-10-18"
+    }
+  ],
+  "next_equipment_id": 3,
+  "next_transaction_id": 2
+}

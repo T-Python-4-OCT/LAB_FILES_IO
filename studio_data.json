@@ -1,0 +1,35 @@
+{
+    "equipment": [
+        {
+            "id": 1,
+            "name": "Sony Canera",
+            "category": "Cameras",
+            "quantity": "5"
+        },
+        {
+            "id": 2,
+            "name": "Microphone",
+            "category": "Audio",
+            "quantity": 7
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "equipment_id": 1,
+            "employee": "Mamdouh",
+            "quantity": 2,
+            "date": "2026-10-18 18:19:56",
+            "status": "returned",
+            "return_date": "2026-10-18 18:20:49"
+        },
+        {
+            "id": 2,
+            "equipment_id": 1,
+            "employee": "Mamdouh",
+            "quantity": 4,
+            "date": "2026-10-18 18:26:28",
+            "status": "borrowed"
+        }
+    ]
+}

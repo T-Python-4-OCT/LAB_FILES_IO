@@ -1,0 +1,28 @@
+{
+    "equipment": [
+        {
+            "id": 2,
+            "name": "sony",
+            "category": "camera",
+            "quantity": 2
+        },
+        {
+            "id": 3,
+            "name": "camera",
+            "category": "sony",
+            "quantity": 4
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "equipment_id": 3,
+            "employee": "mohammed",
+            "quantity": 3,
+            "date": "2026-10-18",
+            "status": "borrowed"
+        }
+    ],
+    "next_equipment_id": 4,
+    "next_transaction_id": 2
+}

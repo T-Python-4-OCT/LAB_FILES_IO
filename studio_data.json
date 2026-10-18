@@ -1,0 +1,17 @@
+{
+    "equipment": [
+        {
+            "id": 1,
+            "name": "camera 3",
+            "category": "3",
+            "quantity": 4
+        },
+        {
+            "id": 2,
+            "name": "Wireless Microphone",
+            "category": "3",
+            "quantity": 4
+        }
+    ],
+    "transactions": []
+}

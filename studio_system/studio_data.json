@@ -1,0 +1,40 @@
+{
+    "equipment": [
+        {
+            "id": 1,
+            "name": "sony camera",
+            "category": "cameras",
+            "quantity": 5
+        },
+        {
+            "id": 2,
+            "name": "Wireless Microphone",
+            "category": "Audio",
+            "quantity": 4
+        },
+        {
+            "id": 3,
+            "name": "LED Light",
+            "category": "lighting",
+            "quantity": 8
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "equipment_id": 1,
+            "employee": "Nasser",
+            "quantity": 4,
+            "date": "2026-10-18",
+            "status": "returned"
+        },
+        {
+            "id": 2,
+            "equipment_id": 3,
+            "employee": "Sara",
+            "quantity": 2,
+            "date": "2026-10-18",
+            "status": "borrowed"
+        }
+    ]
+}

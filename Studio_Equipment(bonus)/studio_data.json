@@ -1,0 +1,15 @@
+{
+    "equipment": [],
+    "transactions": [
+        {
+            "id": 1,
+            "equipment_id": 1,
+            "employee": "Ahmed",
+            "quantity": 2,
+            "date": "2026-10-18",
+            "status": "returned"
+        }
+    ],
+    "next_equipment_id": 2,
+    "next_transaction_id": 2
+}

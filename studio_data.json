@@ -1,0 +1,38 @@
+{
+  "equipment": [
+    {
+      "id": 1,
+      "name": "sami",
+      "category": "5",
+      "quantity": 3
+    },
+    {
+      "id": 3,
+      "name": "ahamd",
+      "category": "9",
+      "quantity": 4
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "equipment_id": 1,
+      "equipment_name": "sami",
+      "employee": "sami",
+      "quantity": 2,
+      "date": "2026-10-18",
+      "status": "borrowed"
+    },
+    {
+      "id": 2,
+      "equipment_id": 3,
+      "equipment_name": "ahamd",
+      "employee": "ahamd",
+      "quantity": 1,
+      "date": "2026-10-18",
+      "status": "borrowed"
+    }
+  ],
+  "next_equipment_id": 4,
+  "next_transaction_id": 3
+}

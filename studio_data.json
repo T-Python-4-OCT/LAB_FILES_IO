@@ -1,0 +1,11 @@
+{
+    "equipment": [
+        {
+            "id": 1,
+            "name": "Camera",
+            "category": "Photography",
+            "quantity": 5
+        }
+    ],
+    "transactions": []
+}

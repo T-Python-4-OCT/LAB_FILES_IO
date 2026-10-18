@@ -1,0 +1,11 @@
+{
+    "equipment": [
+        {
+            "id": 1,
+            "name": "9",
+            "category": "3",
+            "quantity": 2
+        }
+    ],
+    "transactions": []
+}

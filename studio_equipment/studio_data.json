@@ -1,0 +1,26 @@
+{
+  "equipment": [
+    {
+      "id": 1,
+      "name": "Sony Camera",
+      "category": "Cameras",
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "name": "Wireless Microphone",
+      "category": "Audio",
+      "quantity": 3
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "equipment_id": 1,
+      "employee": "Ahmed",
+      "quantity": 2,
+      "date": "2026-10-18",
+      "status": "borrowed"
+    }
+  ]
+}

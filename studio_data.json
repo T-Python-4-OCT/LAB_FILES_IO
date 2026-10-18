@@ -1,0 +1,20 @@
+{
+    "equipment": [
+        {
+            "id": 1,
+            "name": "Airpods Pro 4",
+            "category": "Apple",
+            "quantity": 3
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "equipment_id": 1,
+            "employee": "Mustafa",
+            "quantity": 1,
+            "date": "2026-10-19",
+            "status": "borrowed"
+        }
+    ]
+}

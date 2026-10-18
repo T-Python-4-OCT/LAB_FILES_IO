@@ -1,0 +1,29 @@
+{
+  "equipment": [
+    {
+      "id": 2,
+      "name": "iphone",
+      "category": "phones",
+      "quantity": 8
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "equipment_id": 1,
+      "employee": "Abdulaziz",
+      "quantity": 2,
+      "date": "2026-10-18",
+      "status": "returned"
+    },
+    {
+      "id": 2,
+      "equipment_id": 2,
+      "employee": "mamduh",
+      "quantity": 2,
+      "date": "2026-10-18",
+      "status": "returned"
+    }
+  ],
+  "next_equipment_id": 3
+}

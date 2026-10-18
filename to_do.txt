@@ -1,0 +1,4 @@
+me nema sultan
+C:\Users\ZEZO\.local\bin\python3.14.exe "c:/Users/ZEZO/Downloads/sultan alshahrani 10/LAB_FILES_IO/bouns.py"
+aaa
+nnn

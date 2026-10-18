@@ -1,0 +1,50 @@
+{
+    "equipment": [
+        {
+            "id": 2,
+            "name": "Wireless Microphone",
+            "category": "Audio",
+            "quantity": 3
+        },
+        {
+            "id": 3,
+            "name": "Wireless Microphone",
+            "category": "Audio",
+            "quantity": 3
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "equipment_id": 1,
+            "employee": "Ahmed",
+            "quantity": 2,
+            "date": "2026-10-18",
+            "status": "returned"
+        },
+        {
+            "id": 2,
+            "equipment_id": 1,
+            "employee": "Ahmed",
+            "quantity": 2,
+            "date": "2026-10-18",
+            "status": "returned"
+        },
+        {
+            "id": 3,
+            "equipment_id": 2,
+            "employee": "ِAhmed",
+            "quantity": 2,
+            "date": "2026-10-18",
+            "status": "borrowed"
+        },
+        {
+            "id": 4,
+            "equipment_id": 3,
+            "employee": "Sara",
+            "quantity": 1,
+            "date": "2026-10-18",
+            "status": "borrowed"
+        }
+    ]
+}

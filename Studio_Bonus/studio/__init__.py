@@ -1,0 +1,1 @@
+"""Studio Equipment Manager package."""

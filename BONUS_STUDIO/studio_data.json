@@ -1,0 +1,70 @@
+{
+    "equipment": [
+        {
+            "id": 1,
+            "name": "zoom_HD",
+            "category": "5",
+            "total": 5
+        },
+        {
+            "id": 2,
+            "name": "conn",
+            "category": "3",
+            "total": 4
+        },
+        {
+            "id": 3,
+            "name": "wh",
+            "category": "fff",
+            "total": 5
+        },
+        {
+            "id": 4,
+            "name": "kroon",
+            "category": "lz",
+            "total": 8
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "employee": "Abduirahman",
+            "equipment_id": 1,
+            "quantity": 8,
+            "date": "2026-10-18",
+            "status": "returned"
+        },
+        {
+            "id": 2,
+            "employee": "abd",
+            "equipment_id": 1,
+            "quantity": 5,
+            "date": "2026-10-18",
+            "status": "returned"
+        },
+        {
+            "id": 3,
+            "employee": "abd",
+            "equipment_id": 2,
+            "quantity": 3,
+            "date": "2026-10-18",
+            "status": "borrowed"
+        },
+        {
+            "id": 4,
+            "employee": "seed",
+            "equipment_id": 1,
+            "quantity": 5,
+            "date": "2026-10-18",
+            "status": "returned"
+        },
+        {
+            "id": 5,
+            "employee": "oop",
+            "equipment_id": 1,
+            "quantity": 5,
+            "date": "2026-10-18",
+            "status": "returned"
+        }
+    ]
+}

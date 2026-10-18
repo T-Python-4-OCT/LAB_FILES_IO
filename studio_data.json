@@ -1,0 +1,19 @@
+{
+  "equipment": [
+    {
+      "id": 4,
+      "name": "sony",
+      "category": "Camera",
+      "quantity": 6
+    },
+    {
+      "id": 5,
+      "name": "Phone",
+      "category": "5",
+      "quantity": 5
+    }
+  ],
+  "transactions": [],
+  "next_eid": 6,
+  "next_tid": 1
+}

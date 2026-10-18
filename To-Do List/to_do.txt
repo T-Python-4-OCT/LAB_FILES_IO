@@ -1,0 +1,11 @@
+tt
+mm
+dv
+ss
+ss
+11
+1232
+2132
+2222
+12
+C:\Users\m-h-m\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Users/m-h-m/Desktop/moh.py/LAB_FILES_IO/main.py

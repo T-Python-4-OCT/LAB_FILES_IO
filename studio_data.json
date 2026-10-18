@@ -1,0 +1,64 @@
+{
+    "equipment": [
+        {
+            "id": 1,
+            "name": "sony camera",
+            "category": "cameras",
+            "quantity": 8
+        },
+        {
+            "id": 2,
+            "name": "Wireless Microphone",
+            "category": "Audio",
+            "quantity": 3
+        },
+        {
+            "id": 3,
+            "name": "Canon Camera",
+            "category": "Cameras",
+            "quantity": 4
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "equipment_id": 1,
+            "employee": "Ahmed",
+            "quantity": 2,
+            "date": "2026-10-18",
+            "status": "returned"
+        },
+        {
+            "id": 2,
+            "equipment_id": 1,
+            "employee": "Mohammed",
+            "quantity": 1,
+            "date": "2026-10-18",
+            "status": "borrowed"
+        },
+        {
+            "id": 3,
+            "equipment_id": 1,
+            "employee": "Ahmed",
+            "quantity": 2,
+            "date": "2026-10-18",
+            "status": "borrowed"
+        },
+        {
+            "id": 4,
+            "equipment_id": 1,
+            "employee": "Sarah",
+            "quantity": 4,
+            "date": "2026-10-18",
+            "status": "borrowed"
+        },
+        {
+            "id": 5,
+            "equipment_id": 4,
+            "employee": "Ahmed",
+            "quantity": 2,
+            "date": "2026-10-18",
+            "status": "returned"
+        }
+    ]
+}

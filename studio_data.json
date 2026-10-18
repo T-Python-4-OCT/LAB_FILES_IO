@@ -2,27 +2,15 @@
     "equipment": [
         {
             "id": 1,
-            "name": "camera",
-            "category": "7",
-            "quantity": 3
+            "name": "camera 3",
+            "category": "3",
+            "quantity": 4
         },
         {
             "id": 2,
-            "name": "camera",
+            "name": "Wireless Microphone",
             "category": "3",
-            "quantity": 6
-        },
-        {
-            "id": 3,
-            "name": "camera",
-            "category": "3",
-            "quantity": 7
-        },
-        {
-            "id": 4,
-            "name": "wirelss microphone",
-            "category": "2",
-            "quantity": 6
+            "quantity": 4
         }
     ],
     "transactions": []

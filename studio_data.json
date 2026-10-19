@@ -1,0 +1,20 @@
+{
+    "equipment": [
+        {
+            "id": 1,
+            "name": "Cameras",
+            "category": "s",
+            "quantity": 5
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "equipment_id": 1,
+            "employee": "fahad",
+            "quantity": 2,
+            "date": "2026-10-19",
+            "status": "borrowed"
+        }
+    ]
+}

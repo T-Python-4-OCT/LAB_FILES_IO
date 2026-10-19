@@ -1,0 +1,60 @@
+{
+    "equipment": [
+        {
+            "id": 1,
+            "name": "77",
+            "category": "7",
+            "quantity": 3
+        },
+        {
+            "id": 2,
+            "name": "a",
+            "category": "2",
+            "quantity": 2
+        },
+        {
+            "id": 3,
+            "name": "3",
+            "category": "3",
+            "quantity": 3
+        },
+        {
+            "id": 4,
+            "name": "55",
+            "category": "5",
+            "quantity": 6
+        },
+        {
+            "id": 5,
+            "name": "2",
+            "category": "2",
+            "quantity": 2
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "equipment_id": 3,
+            "employee": "3",
+            "quantity": 3,
+            "date": "2026-10-18",
+            "status": "returned"
+        },
+        {
+            "id": 2,
+            "equipment_id": 4,
+            "employee": "55",
+            "quantity": 4,
+            "date": "2026-10-18",
+            "status": "borrowed"
+        },
+        {
+            "id": 3,
+            "equipment_id": 2,
+            "employee": "1",
+            "quantity": 2,
+            "date": "2026-10-19",
+            "status": "borrowed"
+        }
+    ]
+}
